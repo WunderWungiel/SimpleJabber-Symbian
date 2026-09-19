@@ -1,0 +1,1 @@
+# SimpleJabber-Symbian
