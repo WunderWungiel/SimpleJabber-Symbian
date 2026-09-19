@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width="256" height="256" viewBox="0 0 256 256">
+  <rect x="8" y="8" width="240" height="240" rx="44" ry="44" fill="#2f6fd6"/>
+  <rect x="8" y="128" width="240" height="120" rx="44" ry="44" fill="#2764c0"/>
+  <rect x="8" y="128" width="240" height="40" fill="#2764c0"/>
+  <path d="M60 56 h136 a24 24 0 0 1 24 24 v72 a24 24 0 0 1 -24 24 h-84 l-40 34 v-34 h-12 a24 24 0 0 1 -24 -24 v-72 a24 24 0 0 1 24 -24 z" fill="#ffffff"/>
+  <circle cx="128" cy="108" r="34" fill="#ffc61a"/>
+  <rect x="112" y="132" width="32" height="20" rx="5" ry="5" fill="#e8a200"/>
+  <rect x="116" y="150" width="24" height="9" rx="4" ry="4" fill="#c98a00"/>
+  <g stroke="#ffc61a" stroke-width="7" stroke-linecap="round">
+    <line x1="128" y1="52" x2="128" y2="40"/>
+    <line x1="170" y1="66" x2="179" y2="57"/>
+    <line x1="86" y1="66" x2="77" y2="57"/>
+    <line x1="182" y1="108" x2="194" y2="108"/>
+    <line x1="74" y1="108" x2="62" y2="108"/>
+  </g>
+</svg>

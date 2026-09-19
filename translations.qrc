@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/translations">
+    <file alias="simplejabber_ru.qm">translations/simplejabber_ru.qm</file>
+</qresource>
+</RCC>

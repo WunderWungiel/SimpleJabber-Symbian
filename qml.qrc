@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/qml">
+    <file alias="main.qml">qml/main.qml</file>
+    <file alias="LoginPage.qml">qml/LoginPage.qml</file>
+    <file alias="ContactsPage.qml">qml/ContactsPage.qml</file>
+    <file alias="ChatPage.qml">qml/ChatPage.qml</file>
+    <file alias="MessageDelegate.qml">qml/MessageDelegate.qml</file>
+    <file alias="Padlock.qml">qml/Padlock.qml</file>
+    <file alias="TextInputPage.qml">qml/TextInputPage.qml</file>
+    <file alias="ImagePage.qml">qml/ImagePage.qml</file>
+    <file alias="SettingsPage.qml">qml/SettingsPage.qml</file>
+</qresource>
+</RCC>
